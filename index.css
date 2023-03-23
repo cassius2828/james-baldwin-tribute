@@ -1,0 +1,79 @@
+header {
+  margin: 20px auto;
+  width: 80vw;
+  padding: 20px;
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h1,
+p {
+  color: black;
+  text-align: center;
+  margin: auto;
+}
+
+/* img main */
+
+.container {
+  color: grey;
+  height: 40vw;
+  width: 80vw;
+  margin: 20px auto;
+}
+
+.container img {
+  width: 100%;
+  height: 100%;
+}
+
+figcaption {
+  color: black;
+}
+
+/* time line */
+
+.timeline {
+  /* height: 3600px; */
+  width: 80vw;
+  margin: 20px auto;
+  color: black;
+  background-color: whitesmoke;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 2em;
+}
+
+li {
+  line-height: 20px;
+  font-size: 18px;
+  padding: 15px 0px;
+  margin: 0 1rem;
+}
+
+span {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+footer {
+  font-size: 0.8em;
+  text-align: center;
+  border-top: solid 3px rgb(207, 207, 207);
+}
+
+h3 {
+  text-align: center;
+  padding-bottom: 90px;
+}
+
+a {
+  color: rgb(106, 143, 199);
+}
